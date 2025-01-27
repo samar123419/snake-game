@@ -7,10 +7,9 @@
 **snake:** included method for control snake movement and length
 **food:** put food in random place in the board
 **scoreboard:** responsibole for manage output text in screen board 
-```
 
 How to run the game:
-```bash
+```shell
 Clone This Repo
 python main.py
 ```
