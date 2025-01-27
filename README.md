@@ -3,10 +3,10 @@
 
 ## Explan About Files
 
-**main.py:** this is the main file in the game, give first cardonation for screen-board size, snake, food and score
+**main.py:** this is the main file in the game, give first Coordination for screen-board size, snake, food and score
 **snake:** included method for control snake movement and length
 **food:** put food in random place in the board
-**scoreboard:** responsibole for manage output text in screen board 
+**scoreboard:** responsible for manage output text in screen board 
 
 How to run the game:
 ```shell
@@ -18,5 +18,6 @@ python main.py
 ![screenshot](img.png)
 ```
 Black rectangular is the SNAKE
-Green circle is the food 
+Green circle is the FOOD
+eat the food to increase the score  
 ```
