@@ -7,3 +7,11 @@
 **food:** put food in random place in the board
 **scoreboard:** responsibole for manage output text in screen board 
 
+How to run the game:
+```bash
+Clone This Repo
+python main.py
+```
+
+### Project Screenshot
+![screenshot](img.png)
